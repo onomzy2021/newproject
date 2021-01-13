@@ -2,5 +2,6 @@ class training{
 
                public static void main(string[] args){
                   System.out.println("This is the first program here");
+                  System.out.println("Second line added now to the program");
 }
 }
